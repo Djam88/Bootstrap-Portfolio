@@ -38,4 +38,8 @@
   .card-img-top {
     object-fit: cover;
     height: 200px;
+    
   }
+.skill{
+  background-color: aquamarine;
+}
