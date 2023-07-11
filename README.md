@@ -22,7 +22,7 @@ This is a portfolio site project that showcases my work and skills. It is built 
 - Work section displaying project cards with images and descriptions.
 - Skills section highlighting your skills or areas of expertise.
 - About/Contact section with personal information and contact details.
-- Footer with links to social media or other relevant resources.
+- Footer with links to my contact details.
 
 ## Getting Started
 
