@@ -24,6 +24,10 @@
   .jumbotron a.btn:hover {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
   }
+  .jumbotron-image{
+    width: 100px;
+    height:auto;
+  }
   /* Work section */
   .card {
     background-color: #f8f9fa;
@@ -44,3 +48,4 @@
 .skill{
   background-color: aquamarine;
 }
+

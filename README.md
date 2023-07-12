@@ -2,7 +2,7 @@
 
 This is a portfolio site project that showcases my work and skills. It is built using HTML, CSS, and the Bootstrap framework.
 
-![Screenshot](./images/Screenshot%202023-07-11%20224956.png)
+![Screenshot](./images/Screenshot%202023-07-11%20221651.png)
 
 ## Table of Contents
 
