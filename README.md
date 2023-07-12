@@ -39,6 +39,7 @@ This is a portfolio site project that showcases my work and skills. It is built 
 ## Usage
 
 - you can click and follow the link provided here. Simply open the link in web brwoser.
+    https://djam88.github.io/dj-portfolio/
 
 
 ## Customization
